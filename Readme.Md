@@ -8,7 +8,7 @@ The study evaluates the performance of different classification models and compa
 ---
 
 ## Dataset
-The dataset used in this project contains network traffic records with multiple features representing different characteristics of network connections.
+The dataset used in this project contains network traffic records with multiple features representing different characteristics of network connections. kaggle: https://www.kaggle.com/datasets/sweety18/cicids2017-full-dataset 
 
 The dataset includes:
 - Network traffic attributes
